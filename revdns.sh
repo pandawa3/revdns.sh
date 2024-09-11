@@ -15,7 +15,6 @@ Help()
 Head()
 {
     echo
-    echo
     echo  " __ _     _|__  _     _ |_ "
     echo  " | (/_\_/(_|| |_>  o _> | |"
     echo
